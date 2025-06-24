@@ -1,5 +1,8 @@
 ## Hi there, Nice to See You 👋
 
+Welcome to my profile!
+I'm Shantunu, MERN stack developer from  Rangamati, Bangladesh.
+
 <!--
 **ChakmaShantunu/ChakmaShantunu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
