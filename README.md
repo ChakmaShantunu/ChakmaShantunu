@@ -7,6 +7,21 @@ Hi, I’m Shantunu Chakma —Skilled in the MERN stack . I love building clean, 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/shantunuc/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shantunu-chakma-b10a0b282/) 
 
+## 🧠 Developer Profile Object
+
+```js
+const shantunu = {
+  pronouns: "he" | "him",
+  code: ["HTML", "CSS", "JavaScript", "TailwindCSS", "React", "Node.js", "Express.js", "MongoDB"],
+  tools: ["VS Code", "Git", "Postman", "Firebase", "Vite", "Netlify"],
+  architecture: ["MERN Stack", "Component-Based UI", "RESTful API", "Secure Auth Flow"],
+  techCommunities: {
+    member: "Programming Hero",
+    learner: "Stack Learner",
+    contributor: "GitHub Open Source"
+  },
+  challenge: "#100DaysOfCode — building full-stack apps with React, Node.js & MongoDB"
+}
 
 
 # 💻 Tech Stack:
