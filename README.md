@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi, I’m Shantunu Chakma —Skilled in the MERN stack . I love building clean, functional apps & always exploring new tech
 
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Shantunu%20Chakma&fontColor=ffffff&fontSize=40&desc=Full-Stack%20MERN%20Developer&descSize=18&descAlign=65)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/shantunuc/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shantunu-chakma-b10a0b282/) 
