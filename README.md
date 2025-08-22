@@ -24,7 +24,7 @@ Hi, I’m Shantunu Chakma from Bangladesh. Recently i am living in Rangamati.
 const shantunu = {
   pronouns: "he" | "him",
   code: ["HTML", "CSS", "JavaScript", "TailwindCSS", "React", "Node.js", "Express.js", "MongoDB"],
-  tools: ["VS Code", "Git", "Postman", "Firebase", "Vite", "Netlify"],
+  tools: ["VS Code", "Git", "Postman", "Firebase", "Vite", "Netlify", "vercel",],
   architecture: ["MERN Stack", "Component-Based UI", "RESTful API", "Secure Auth Flow"],
   techCommunities: {
     member: "Programming Hero",
