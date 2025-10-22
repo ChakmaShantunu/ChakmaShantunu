@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I’m Shantunu Chakma from Bangladesh. Recently i am living in Rangamati.
 ## 🌱 Currently Learning
-📘 Next.js (Dynamic routing, SSR, SSG, API Routes)
+📘 TypeScript, Node.js
 💡 Clean Backend Architecture with Express & MongoDB
 
 ![Banner](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Shantunu%20Chakma%20👨‍💻&fontColor=ffffff&fontSize=40&desc=Creative%20React%20Developer&descSize=18&descAlign=60)
@@ -23,7 +23,7 @@ Hi, I’m Shantunu Chakma from Bangladesh. Recently i am living in Rangamati.
 ```js
 const shantunu = {
   pronouns: "he" | "him",
-  code: ["HTML", "CSS", "JavaScript", "TailwindCSS", "React", "Next.js" "Node.js", "Express.js", "MongoDB"],
+  code: ["HTML", "CSS", "JavaScript", "TailwindCSS", "React", "Next.js", "Node.js", "Express.js", "MongoDB"],
   tools: ["VS Code", "Git", "Postman", "Firebase", "Vite", "Netlify", "vercel",],
   architecture: ["MERN Stack", "Component-Based UI", "RESTful API", "Secure Auth Flow"],
   techCommunities: {
