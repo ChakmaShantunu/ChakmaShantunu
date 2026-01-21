@@ -4,7 +4,7 @@ Hi, I’m Shantunu Chakma from Bangladesh. Recently i am living in Rangamati.
 📘 Node.js, PostgreSQL
 💡 Clean Backend Architecture with Express
 
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Shantunu%20Chakma%20👨‍💻&fontColor=ffffff&fontSize=40&desc=Creative%20React%20Developer&descSize=18&descAlign=60)
+![Banner]([https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Shantunu%20Chakma%20👨‍💻&fontColor=ffffff&fontSize=40&desc=Creative%20React%20Developer&descSize=18&descAlign=60](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Shantunu%20Chakma&fontAlignY=50&desc=Creative%20Frontend%20Developer%20👨‍💻&descAlignY=64&descAlign=68))
 
 
 ## 🌐 Socials:
