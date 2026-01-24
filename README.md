@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I’m Shantunu Chakma from Bangladesh. Recently i am living in Rangamati.
 ## 🌱 Currently Learning
-📘 Node.js, PostgreSQL
+📘 PostgreSQL, Prisma ORM
 💡 Clean Backend Architecture with Express
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Shantunu%20Chakma&fontAlignY=50&desc=Creative%20Frontend%20Developer%20👨‍💻&descAlignY=64&descAlign=68)
