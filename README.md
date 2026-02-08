@@ -33,6 +33,8 @@ Hi, I’m Shantunu Chakma from Bangladesh. Recently i am living in Rangamati.
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Prisma](https://img.shields.io/badge/Prisma-2B2A6A?style=for-the-badge&logo=prisma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 
 # 📊 GitHub Stats:
