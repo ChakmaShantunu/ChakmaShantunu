@@ -55,5 +55,5 @@ const shantunu = {
     learner: "Stack Learner",
     contributor: "GitHub Open Source"
   },
-  challenge: "#100DaysOfCode — building full-stack apps with React, Node.js & MongoDB"
+  challenge: "#100DaysOfCode — building full-stack apps with React, Node.js, MongoDB, Postgres and Prsima"
 }
