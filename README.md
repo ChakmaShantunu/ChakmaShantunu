@@ -2,7 +2,7 @@
 Hi, I’m Shantunu Chakma from Bangladesh. Recently i am living in Rangamati.
 ## 🌱 Currently Learning
 📘 PostgreSQL, Prisma ORM
-💡 Clean Backend Architecture with Express
+💡 Clean Backend Architecture with Express Js and Node
 
 ## 🌱 Side Learning
 📘 Rust
