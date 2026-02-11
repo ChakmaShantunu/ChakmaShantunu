@@ -7,7 +7,7 @@ Hi, I’m Shantunu Chakma from Bangladesh. Recently i am living in Rangamati.
 ## 🌱 Side Learning
 📘 Rust
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Shantunu%20Chakma&fontAlignY=50&desc=Creative%20Frontend%20Developer%20👨‍💻&descAlignY=64&descAlign=68)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Shantunu%20Chakma&desc=Creative%20Backend%20Developer%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&descAlignY=57&descAlign=69&fontAlignY=38&section=header&reversal=false&textBg=false&animation=fadeIn)
 
 
 ## 🌐 Socials:
